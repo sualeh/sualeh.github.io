@@ -1,33 +1,21 @@
 body {
-  background: #FFFFFF;
-  color: #000000;
 	margin-top: 3em !important;
 }
 
-.container {
-  font-family: 'PT Serif', serif;
-}
-
-.text-line {
-	font-size: 2rem;
-	font-weight: 300;
-}
-
-.display-1 {
-	font-size: 4rem;
+a {
   color: #888888;
 }
 
-.text-line a {
-  color: #888888;
+a:hover, a:focus {
+  text-decoration: none;
+	color: black;
 }
 
-.social-icons a {
-  color: #888888;
+.paragraph-text {
+	font-size: 2em;	
 }
 
 .social-icons i {
 	padding: 10px;
 	font-size: 3em;
-	align: center;
 }
