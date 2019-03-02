@@ -1,8 +1,7 @@
-/* Theme */
-
 body {
-  background: #7B2A90;
-  color: #FFFFFF;
+  background: #FFFFFF;
+  color: #000000;
+	margin: 0.5em;
 	margin-top: 3em !important;
 }
 
@@ -11,16 +10,21 @@ body {
 }
 
 .text-line {
-	font-size: 3rem;
+	font-size: 2rem;
 	font-weight: 300;
 }
 
+.display-1 {
+	font-size: 4rem;
+  color: #888888;
+}
+
 .text-line a {
-  color: #FFFFFF;
+  color: #888888;
 }
 
 .social-icons a {
-  color: #FFFFFF;
+  color: #888888;
 }
 
 .social-icons i {
@@ -28,4 +32,3 @@ body {
 	font-size: 3em;
 	align: center;
 }
-
