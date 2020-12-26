@@ -1,21 +1,21 @@
 body {
-	margin-top: 3em !important;
+  margin-top: 3em !important;
 }
 
-a {
-  color: #888888;
+a, h1 {
+  color: #6B6762;
 }
 
 a:hover, a:focus {
   text-decoration: none;
-	color: black;
+  color: black;
 }
 
 .paragraph-text {
-	font-size: 2em;	
+  font-size: 2em;
 }
 
 .social-icons i {
-	padding: 10px;
-	font-size: 3em;
+  padding: 10px;
+  font-size: 3em;
 }
