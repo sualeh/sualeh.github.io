@@ -4,11 +4,13 @@ body {
 
 a, h1 {
   color: #403a39;
+  text-decoration: none;
 }
 
 a:hover, a:focus {
-  text-decoration: none;
   color: black;
+  font-weight: bolder;
+  text-decoration: none;
 }
 
 .paragraph-text {
