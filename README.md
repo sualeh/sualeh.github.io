@@ -1,1 +1,3 @@
-# [Sualeh Fatehi - Personal website](http://sualeh.github.io/)
+# Sualeh Fatehi - Personal website
+
+[sualeh.github.io](https://sualeh.github.io/)
